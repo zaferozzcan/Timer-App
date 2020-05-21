@@ -1,6 +1,6 @@
 # Timer-App
 
-### This application simply shows the local time on your screen
+### This application simply shows the local time on your screen.
 ![](timer.png)
 
 
